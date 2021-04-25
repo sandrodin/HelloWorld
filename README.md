@@ -8,7 +8,7 @@ This is a basic Hello World program. I created this to demonstrate the use of Vi
 
 * I used Visual Studio Code
 * Python 3.9.4 64-bit
-* Git / Github
+* Git / GitHub
 
 # Useful Websites
 
